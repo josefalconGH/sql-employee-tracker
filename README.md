@@ -5,16 +5,15 @@
 The `sql-employee-tracker` ...
 
 ```md
-express-note-taker
-├── db/
-│   └── db.json
-├── public/
-│   ├── assets/
-│   │   ├── css/
-│   │   └── js/
-├── package-lock.json
-├── package.json
-└── server.js
+sql-employee-tracker
+├── .../
+│   └── ...
+├── .../
+│   ├── .../
+│   │   └── .../
+├── ...
+├── ...
+└── ...
 ```
 ### License
 
